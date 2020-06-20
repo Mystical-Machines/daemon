@@ -27,9 +27,6 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "os": [
-    "linux"
-  ],
   "homepage": "https://github.com/pterodactyl/daemon",
   "devDependencies": {
     "eslint": "4.16.0",
